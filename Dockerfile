@@ -3,4 +3,4 @@ FROM nginx
 COPY . /usr/share/nginx/html
 
 # Copy the website files to the nginx html directory
-
+Expose 80
